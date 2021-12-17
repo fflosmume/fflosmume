@@ -1,5 +1,7 @@
 Welcome to flosmume's github 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=flos-mume&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning UIdesign and c
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
